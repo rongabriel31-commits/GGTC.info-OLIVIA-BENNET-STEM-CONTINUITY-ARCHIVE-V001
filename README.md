@@ -61,7 +61,7 @@ inside the expanding GGTC.info ecosystem.
 
 ---
 
-# 🧠 CHARACTER OVERVIEW
+# 🧠 AUTHOR OVERVIEW
 
 Olivia Bennet specializes in:
 - STEM education systems
@@ -158,7 +158,7 @@ It was designed to:
 
 ---
 
-# 👩‍🔬 CHARACTER PROFILE
+# 👩‍🔬 AUTHOR PROFILE
 
 ## Olivia Bennet  
 STEM Research Contributor · GGTC.info Global Media
